@@ -1,4 +1,4 @@
-# 🗺️ Google Maps Scraper Extension
+# 🗺️ Google Map Scraper Extension
 
 A simple Chrome extension to scrape business listings from Google Maps and export them as CSV or JSON.
 
